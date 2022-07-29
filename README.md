@@ -23,5 +23,5 @@ Some python libraries
 ---
 
 ### Certification
-![](cerf_png.png)
+![](C:\Users\tolga\OneDrive\Masaüstü\feature_eng_cerf.jpg)
 
