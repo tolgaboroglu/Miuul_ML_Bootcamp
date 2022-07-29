@@ -36,5 +36,5 @@ pd.set_option('display.width', 500)
 ---
 
 ### Certification
-![](C:/Users/tolga/OneDrive/Masaüstü/feature_eng_cerf.jpg)
+![feature_eng_cerf](https://user-images.githubusercontent.com/46046034/181746112-90623068-6efb-46ef-baaa-8d27fc3e9ecd.jpg)
 
