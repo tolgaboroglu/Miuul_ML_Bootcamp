@@ -4,7 +4,7 @@ ML Yaz Kampı
 
 
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 18.07.2022 - 24.07.2022  
 **Name:** Tolga  
 **Surname:** Boroğlu  
 **Email:** tolgaboroglu@gmail.com  
