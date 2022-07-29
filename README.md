@@ -1,6 +1,8 @@
 
 # Miuul_ML_Bootcamp
-ML Yaz Kampı
+ML Yaz Kampı 
+![miuul logo](https://user-images.githubusercontent.com/46046034/181748448-3fe39a17-a6f0-44b6-bfa8-322760b3b4a6.png)
+
 
 **Course Date:** 01.07.2022 - 07.07.2022  
 **Name:** Tolga  
