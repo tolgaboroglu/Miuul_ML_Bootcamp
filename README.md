@@ -1,3 +1,4 @@
+
 # Miuul_ML_Bootcamp
 ML Yaz Kampı
 
@@ -36,5 +37,5 @@ pd.set_option('display.width', 500)
 ---
 
 ### Certification
-![feature_eng_cerf](https://user-images.githubusercontent.com/46046034/181746112-90623068-6efb-46ef-baaa-8d27fc3e9ecd.jpg)
+[certificate-of-completion-for-ozellik-muhendisligi-makine-ogrenmesi-yaz-kampi_sertifika.pdf](https://github.com/tolgaboroglu/Miuul_ML_Bootcamp/files/9219365/certificate-of-completion-for-ozellik-muhendisligi-makine-ogrenmesi-yaz-kampi_sertifika.pdf)
 
