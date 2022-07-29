@@ -38,4 +38,5 @@ pd.set_option('display.width', 500)
 
 ### Certification
 [certificate-of-completion-for-ozellik-muhendisligi-makine-ogrenmesi-yaz-kampi_sertifika.pdf](https://github.com/tolgaboroglu/Miuul_ML_Bootcamp/files/9219365/certificate-of-completion-for-ozellik-muhendisligi-makine-ogrenmesi-yaz-kampi_sertifika.pdf)
+![feature_eng_cerf](https://user-images.githubusercontent.com/46046034/181746850-331005e8-ef21-44a4-80f8-fb1c7cc3940e.jpg)
 
