@@ -10,8 +10,7 @@ ML Yaz Kampı
 
 
 ## Project Name
-Feature Engineering
-
+Python for Data Science
 ## Requirements
 ```
 ###########################################################
