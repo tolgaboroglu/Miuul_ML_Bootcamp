@@ -23,5 +23,5 @@ Some python libraries
 ---
 
 ### Certification
-![](feature_eng_cerf.jpg)
+![](cerf_png.png)
 
